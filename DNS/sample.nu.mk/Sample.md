@@ -1,8 +1,3 @@
-### Domain Names Assigned
-
-reg.nu.mk
-
-mail.nu.mk
 ### DNS Records
 
 cname:reg.nu.mk = example.com
